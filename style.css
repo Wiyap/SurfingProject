@@ -1,0 +1,12 @@
+.container-fluid.mycontainer{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.jumbotron-hero{
+    height: 500px;
+    background-image: url('surfimage.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
